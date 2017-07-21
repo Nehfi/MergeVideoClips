@@ -1,0 +1,12 @@
+###                    ##
+# Made by Kim Thomassen #
+###                    ##
+
+
+Small script for side side-by-side view of concatenated video clips.
+
+Prereqs:
+Python3
+FFMPEG
+
+Use by: running script from command line
